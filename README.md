@@ -76,7 +76,7 @@ Login Succeeded
     docker image tag nishasugathan2022/jobapp:2 nishasugathan2022/jobapp:latest
     docker image  push nishasugathan2022/jobapp:latest
    ```
- ### pull the version2 latest image and create container on client 
+ ### Pull the version2 latest image and create container on client 
  
  ```
   docker pull nishasugathan2022/jobapp``
@@ -90,7 +90,7 @@ Login Succeeded
  docker image tag nishasugathan2022/jobapp:3 nishasugathan2022/jobapp:latest
  docker image push nishasugathan2022/jobapp:latest
  ```
-  ### pull the version2 latest image and create container on client 
+  ### Pull the version2 latest image and create container on client 
   
  ```
  docker image pull nishasugathan2022/jobapp
